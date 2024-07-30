@@ -1,6 +1,1 @@
- *Hi there 👋* 
- 
-bem-vindo(a) ao meu perfil 
-
-
-
+ *Oi, seja bem-vindo(a) ao meu perfil*
